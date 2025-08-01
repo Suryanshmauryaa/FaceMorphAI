@@ -1,0 +1,11 @@
+# Ignore virtual environment
+FaceMorphAIenv/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit logs/config
+.streamlit/
